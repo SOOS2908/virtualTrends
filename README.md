@@ -1,5 +1,9 @@
 # virtualTrends
 
+Description: An E-commerce website with Virtual Try-On implemented using ML 2d image model and dedicated seller-side, courier-side interface 
+
+
+
 PROGRESS: e-commerce website with HTML+CSS frontend and PHP+MySQL backend is implemented
 
 TODO: find and implement appropriate ml model for applying on 2d image
